@@ -1,0 +1,2290 @@
+{
+  "war": {
+    "colors": [
+      "#4B5320",
+      "#808080",
+      "#2F4F4F",
+      "#8B0000",
+      "#A9A9A9"
+    ],
+    "costumes": [
+      "Olive green military uniform",
+      "Camouflage combat gear",
+      "Grey trench coats with helmets",
+      "Dark red armbands",
+      "Khaki tactical vests"
+    ],
+    "lighting": [
+      "Dusty amber daylight",
+      "Smoke-filled twilight",
+      "Explosive orange flashes",
+      "Muted morning haze",
+      "Grey overcast battlefield lighting"
+    ],
+    "prompt_keywords": [
+      "trenches",
+      "soldiers",
+      "bunker",
+      "explosion",
+      "rifle",
+      "military",
+      "tank",
+      "1917",
+      "battlefield",
+      "camouflage",
+      "airstrike",
+      "warfare",
+      "infantry",
+      "sniper",
+      "grenade",
+      "bloodshed",
+      "uniform",
+      "gas mask",
+      "barbed wire"
+    ]
+  },
+  "cyberpunk": {
+    "colors": [
+      "#0ff0fc",
+      "#ff0080",
+      "#8a2be2",
+      "#00ffff",
+      "#ff4500"
+    ],
+    "costumes": [
+      "Neon-lit leather jackets",
+      "Glowing visors and cybernetic implants",
+      "Black and violet trench coats",
+      "Reflective silver bodysuits",
+      "Tech-wired armor with neon blue highlights"
+    ],
+    "lighting": [
+      "Neon pink and teal glow",
+      "Electric blue backlight",
+      "Flickering hologram shimmer",
+      "Synthetic rain reflections",
+      "Dark city haze with neon contrast"
+    ],
+    "prompt_keywords": [
+      "neon",
+      "rain",
+      "hologram",
+      "cybernetic",
+      "future",
+      "dystopia",
+      "skyline",
+      "LED",
+      "nightclub",
+      "android",
+      "cityscape",
+      "synthwave",
+      "megacity",
+      "hacker",
+      "implant",
+      "tech",
+      "glitch",
+      "rainy",
+      "digital",
+      "grid"
+    ]
+  },
+  "desert": {
+    "colors": [
+      "#EDC9AF",
+      "#C2B280",
+      "#E4D96F",
+      "#FFD700",
+      "#A0522D"
+    ],
+    "costumes": [
+      "Beige keffiyeh with flowing white robes",
+      "Sand-colored turbans and cloaks",
+      "Camel-hair vests with rust tones",
+      "Gold-trimmed desert gear",
+      "Brown leather belts and satchels"
+    ],
+    "lighting": [
+      "Harsh midday sun",
+      "Golden hour glow",
+      "Dust storm filter",
+      "Sunset mirage",
+      "Bleached dry horizon"
+    ],
+    "prompt_keywords": [
+      "sand",
+      "dune",
+      "camel",
+      "sunburn",
+      "arid",
+      "oasis",
+      "nomad",
+      "heatwave",
+      "dry",
+      "mirage",
+      "scorching",
+      "deserted",
+      "sunset",
+      "sunrise",
+      "rocky",
+      "dust",
+      "cactus",
+      "traveler",
+      "sahara",
+      "bazaar"
+    ]
+  },
+  "forest": {
+    "colors": [
+      "#013220",
+      "#228B22",
+      "#6B8E23",
+      "#8FBC8F",
+      "#556B2F"
+    ],
+    "costumes": [
+      "Green camo jackets with bark-brown accessories",
+      "Earth-tone cloaks and hoods",
+      "Olive overalls with leaf patterns",
+      "Dark mossy tunics",
+      "Brown leather boots with green sashes"
+    ],
+    "lighting": [
+      "Filtered green sunlight",
+      "Foggy dawn rays",
+      "Moonlit canopy shadows",
+      "Golden speckled light beams",
+      "Rain-dappled twilight"
+    ],
+    "prompt_keywords": [
+      "trees",
+      "leaves",
+      "moss",
+      "canopy",
+      "wildlife",
+      "nature",
+      "roots",
+      "hunter",
+      "mist",
+      "trail",
+      "branches",
+      "dense",
+      "sunlight",
+      "stream",
+      "mushrooms",
+      "woodland",
+      "creek",
+      "path",
+      "greenery",
+      "echo"
+    ]
+  },
+  "romantic": {
+    "colors": [
+      "#FFC0CB",
+      "#FFD1DC",
+      "#FFF0F5",
+      "#DC143C",
+      "#FF69B4"
+    ],
+    "costumes": [
+      "Soft pink flowing dresses",
+      "White lace shirts with red accents",
+      "Crimson scarves and floral blouses",
+      "Pastel-colored vintage gowns",
+      "Rose-patterned skirts with lavender tops"
+    ],
+    "lighting": [
+      "Golden hour backlight",
+      "Soft candlelight glow",
+      "Dreamy lens flares",
+      "Sunset silhouettes",
+      "Moonlight reflections on skin"
+    ],
+    "prompt_keywords": [
+      "love",
+      "kiss",
+      "flowers",
+      "sunset",
+      "wedding",
+      "candle",
+      "embrace",
+      "valentine",
+      "roses",
+      "flirt",
+      "heart",
+      "date",
+      "couple",
+      "rain",
+      "gentle",
+      "soft",
+      "blush",
+      "romance",
+      "bouquet",
+      "dance"
+    ]
+  },
+  "beach": {
+    "colors": [
+      "#d96df9",
+      "#28a8a0",
+      "#4f35bb",
+      "#9ef89d",
+      "#00deb8"
+    ],
+    "costumes": [
+      "Floral shirts and beach shorts",
+      "Swimwear with sun hats",
+      "Light cotton dresses",
+      "Linen shirts and sunglasses",
+      "Board shorts with tank tops"
+    ],
+    "lighting": [
+      "Bright noon sunlight on water",
+      "Golden sunset over waves",
+      "Twilight glow on sand",
+      "Reflected moonlight on beach",
+      "Hazy humid morning light"
+    ],
+    "prompt_keywords": [
+      "waves",
+      "sand",
+      "surfboard",
+      "sunbathing",
+      "palm trees",
+      "beach ball",
+      "tide",
+      "sunset",
+      "lifeguard",
+      "beach hut",
+      "ocean breeze",
+      "coastline",
+      "beach walk",
+      "seashells",
+      "bonfire",
+      "swimming",
+      "vacation",
+      "seagulls",
+      "ice cream",
+      "tropical drinks"
+    ]
+  },
+  "snow": {
+    "colors": [
+      "#0618ba",
+      "#ae5017",
+      "#3f9156",
+      "#834965",
+      "#e688ac"
+    ],
+    "costumes": [
+      "Fur-lined parkas and snow boots",
+      "Thermal suits with ski goggles",
+      "Knitted sweaters and mittens",
+      "White snowsuits with earmuffs",
+      "Heavy trench coats and scarves"
+    ],
+    "lighting": [
+      "Gleaming snow reflection at noon",
+      "Dim twilight on icy slopes",
+      "Northern lights shimmer",
+      "Snowstorm haze and glare",
+      "Moonlight on snow-covered ground"
+    ],
+    "prompt_keywords": [
+      "blizzard",
+      "snowflakes",
+      "frost",
+      "ice",
+      "snowman",
+      "glacier",
+      "avalanche",
+      "snowball",
+      "sledding",
+      "skiing",
+      "winter",
+      "cold breath",
+      "polar",
+      "frozen lake",
+      "snow tracks",
+      "igloo",
+      "shiver",
+      "crunch",
+      "hail",
+      "snowstorm"
+    ]
+  },
+  "urban_night": {
+  "colors": [
+    "#863a62",
+    "#ee3fbb",
+    "#d0b646",
+    "#eb965f",
+    "#5695f6"
+  ],
+  "costumes": [
+    "Black leather jackets and ripped jeans",
+    "Hoodies with reflective sneakers",
+    "Silk dresses with high heels and trench coats",
+    "Bomber jackets with neon accents",
+    "Streetwear with headphones and snapbacks"
+  ],
+  "lighting": [
+    "Neon sign reflections on wet pavement",
+    "Flickering streetlights in back alleys",
+    "Soft blue glow from nearby skyscrapers",
+    "Taxi headlights and shadowed storefronts",
+    "Pulsing lights from distant nightclubs"
+  ],
+  "prompt_keywords": [
+    "city lights",
+    "graffiti walls",
+    "nightlife",
+    "skateboards",
+    "neon signs",
+    "subway entrance",
+    "bar alley",
+    "music beats",
+    "car headlights",
+    "midnight hustle",
+    "silhouettes",
+    "urban jungle",
+    "smoking vents",
+    "street vendors",
+    "downtown crowd",
+    "LED billboards",
+    "metallic glint",
+    "concrete",
+    "asphalt shimmer",
+    "moonlit skyline"
+  ]
+}
+,
+  "sci_fi": {
+  "colors": [
+    "#7cfccd",
+    "#a6d4cc",
+    "#97d8ff",
+    "#f6b6fd",
+    "#3237ac"
+  ],
+  "costumes": [
+    "Metallic exosuits with illuminated joints",
+    "High-tech armor with holographic panels",
+    "Sleek bodysuits with circuit-like patterns",
+    "Cybernetic enhancement gear with chrome limbs",
+    "Space mission uniforms with LED visors"
+  ],
+  "lighting": [
+    "Pulsing light from energy cores",
+    "Blue ambient glow from control panels",
+    "White sterile lighting in labs",
+    "Red emergency siren flashes",
+    "Rotating beam from alien spacecrafts"
+  ],
+  "prompt_keywords": [
+    "spaceship",
+    "android",
+    "laser",
+    "cybernetic",
+    "AI interface",
+    "zero gravity",
+    "portal",
+    "quantum core",
+    "alien planet",
+    "robot uprising",
+    "time travel",
+    "fusion reactor",
+    "teleportation",
+    "neural link",
+    "space station",
+    "nanotechnology",
+    "future city",
+    "cryosleep",
+    "drone swarm",
+    "biomechanical"
+  ]
+}
+,
+ "vintage": {
+  "colors": [
+    "#92e465",
+    "#17223a",
+    "#f67700",
+    "#e8ad9d",
+    "#c404a0"
+  ],
+  "costumes": [
+    "High-waisted trousers with suspenders",
+    "Polka dot dresses with lace gloves",
+    "Newsboy caps and bow ties",
+    "Tea-length skirts with tucked blouses",
+    "Three-piece suits with pocket watches"
+  ],
+  "lighting": [
+    "Sepia-toned afternoon light",
+    "Warm Edison bulb glows",
+    "Soft filtered light through lace curtains",
+    "Streetlamp halos in fog",
+    "Flickering film projector beams"
+  ],
+  "prompt_keywords": [
+    "gramophone",
+    "typewriter",
+    "retro radio",
+    "vintage car",
+    "record player",
+    "old camera",
+    "cobblestone",
+    "suitcase",
+    "lace",
+    "tea set",
+    "jazz bar",
+    "rotary phone",
+    "trench coat",
+    "swing dance",
+    "postcard",
+    "classic cinema",
+    "train station",
+    "library",
+    "handwritten letter",
+    "hat box"
+  ]
+}
+,
+  "gothic": {
+  "colors": [
+    "#69e554",
+    "#4374b8",
+    "#eb63dc",
+    "#9f3279",
+    "#fc034a"
+  ],
+  "costumes": [
+    "Long black lace dresses with corsets",
+    "Victorian overcoats with high collars",
+    "Leather chokers and dark velvet cloaks",
+    "Ruffled shirts with waistcoats and boots",
+    "Crimson gowns with silver embroidery"
+  ],
+  "lighting": [
+    "Candlelit halls with long shadows",
+    "Moonlight through stained glass windows",
+    "Flickering torches in stone corridors",
+    "Overcast twilight with thunder",
+    "Dimly lit chandeliers with dripping wax"
+  ],
+  "prompt_keywords": [
+    "gargoyles",
+    "cathedral",
+    "cobwebs",
+    "velvet",
+    "ravens",
+    "ancient tome",
+    "iron gate",
+    "fog",
+    "crypt",
+    "black roses",
+    "candle",
+    "lace gloves",
+    "skull",
+    "dark romance",
+    "organ music",
+    "mirror",
+    "blood red",
+    "stained glass",
+    "cemetery",
+    "dramatic shadows"
+  ]
+}
+,
+  "haunted": {
+  "colors": [
+    "#06c96a",
+    "#788168",
+    "#08a520",
+    "#68d1ca",
+    "#942ded"
+  ],
+  "costumes": [
+    "Tattered Victorian nightgowns with pale makeup",
+    "Long black cloaks with hoods and ghostly veils",
+    "Old-timey funeral suits with cracked porcelain masks",
+    "Worn-out asylum uniforms with bloodstains",
+    "Ripped dresses and fog-drenched trench coats"
+  ],
+  "lighting": [
+    "Flickering lanterns in misty hallways",
+    "Blue-green glow from under doors",
+    "Sudden lightning flashes through broken windows",
+    "Dim, cold moonlight seeping into dusty rooms",
+    "Unnatural shadows cast by unseen sources"
+  ],
+  "prompt_keywords": [
+    "ghost",
+    "creaking floor",
+    "whispers",
+    "abandoned mansion",
+    "mirror crack",
+    "footsteps",
+    "foggy window",
+    "possession",
+    "Ouija board",
+    "haunting",
+    "phantom figure",
+    "candlestick",
+    "locked attic",
+    "cold breath",
+    "bloody handprint",
+    "shattered glass",
+    "howling wind",
+    "rattling chains",
+    "unseen eyes",
+    "ancient curse"
+  ]
+}
+,
+  "space": {
+  "colors": [
+    "#3073d4",
+    "#cefe41",
+    "#b7d02e",
+    "#f520e9",
+    "#51b8fe"
+  ],
+  "costumes": [
+    "White astronaut suits with reflective visors",
+    "Futuristic zero-gravity uniforms with oxygen packs",
+    "Robotic exosuits with illuminated chest panels",
+    "Alien-inspired bodysuits with tentacle motifs",
+    "NASA-style mission suits with flag patches"
+  ],
+  "lighting": [
+    "Glowing nebula backlight with purple hues",
+    "Harsh sunlight reflecting off spacecraft hulls",
+    "Dim cockpit lighting with blinking consoles",
+    "Flashes from distant pulsars and quasars",
+    "Starlight filtering through transparent domes"
+  ],
+  "prompt_keywords": [
+    "galaxy",
+    "spaceship",
+    "black hole",
+    "alien life",
+    "cosmic dust",
+    "asteroid belt",
+    "interstellar",
+    "zero gravity",
+    "lunar surface",
+    "spacewalk",
+    "space station",
+    "wormhole",
+    "planet ring",
+    "solar flare",
+    "control module",
+    "docking sequence",
+    "AI navigation",
+    "universe",
+    "deep space",
+    "rocket launch"
+  ]
+}
+,
+  "royal": {
+  "colors": [
+    "#a0b992",
+    "#0759ff",
+    "#58ddc2",
+    "#e07dc8",
+    "#112590"
+  ],
+  "costumes": [
+    "Velvet robes with golden embroidery and fur collars",
+    "Silk gowns with pearl necklaces and tiaras",
+    "Ornate armor with crest-engraved chestplates",
+    "Embroidered tunics with jeweled belts and sashes",
+    "Capes with royal insignia and high-collared jackets"
+  ],
+  "lighting": [
+    "Warm chandelier glow over marble floors",
+    "Golden daylight through stained-glass windows",
+    "Soft candlelight reflecting off crown jewels",
+    "Sunbeams in a grand throne room",
+    "Evening firelight flickering in royal halls"
+  ],
+  "prompt_keywords": [
+    "throne",
+    "castle",
+    "crown",
+    "noble",
+    "ceremony",
+    "jewel",
+    "monarch",
+    "royal guard",
+    "ballroom",
+    "dynasty",
+    "scroll",
+    "banquet",
+    "regal",
+    "heir",
+    "court",
+    "trumpets",
+    "crown jewels",
+    "royal decree",
+    "coat of arms",
+    "kingdom"
+  ]
+}
+,
+  "tribal": {
+  "colors": [
+    "#9516bf",
+    "#32cb11",
+    "#b4ae38",
+    "#1ec7a6",
+    "#55c3a4"
+  ],
+  "costumes": [
+    "Feathered headdresses with patterned tunics",
+    "Beaded necklaces and animal-hide wraps",
+    "War paint and leaf-woven garments",
+    "Decorated masks with natural fiber robes",
+    "Wooden bangles with earth-tone skirts"
+  ],
+  "lighting": [
+    "Fire-lit gatherings beneath starry skies",
+    "Warm amber glow from torches",
+    "Filtered sunlight through dense canopy",
+    "Moonlight reflecting on ritual circles",
+    "Embers casting dancing shadows"
+  ],
+  "prompt_keywords": [
+    "ritual dance",
+    "tribal drums",
+    "feathers",
+    "totem pole",
+    "ceremonial mask",
+    "war paint",
+    "ancestral chants",
+    "sacred fire",
+    "caves",
+    "hunter",
+    "tribal markings",
+    "earth tones",
+    "bone jewelry",
+    "drum circle",
+    "warrior stance",
+    "forest tribe",
+    "animal spirits",
+    "woven baskets",
+    "herbal smoke",
+    "nature worship"
+  ]
+}
+,
+  "futuristic": {
+  "colors": [
+    "#187b89",
+    "#5d9b5a",
+    "#146ffb",
+    "#ca9ce0",
+    "#20b821"
+  ],
+  "costumes": [
+    "Chrome bodysuits with embedded LEDs",
+    "Minimalist techwear with glowing seams",
+    "Smart-fabric cloaks with kinetic response",
+    "Armored suits with neural interface helmets",
+    "Augmented reality visors with nano-fiber uniforms"
+  ],
+  "lighting": [
+    "Striped neon backlights in cold tones",
+    "Holographic projections creating moving shadows",
+    "Pulse-glow walls with rhythmic brightness",
+    "Laser grid lighting across chrome surfaces",
+    "Sterile white light with robotic hum ambiance"
+  ],
+  "prompt_keywords": [
+    "cyber city",
+    "hover car",
+    "AI companion",
+    "neon skyline",
+    "tech dome",
+    "glass towers",
+    "bio-suit",
+    "virtual overlay",
+    "hologram",
+    "cybernetic implant",
+    "drone patrol",
+    "clean energy core",
+    "autonomous lab",
+    "urban circuit",
+    "digital rain",
+    "gravity boots",
+    "time loop",
+    "space elevator",
+    "mind-link",
+    "adaptive armor"
+  ]
+}
+,
+  "noir": {
+  "colors": [
+    "#4295cc",
+    "#7fde3d",
+    "#672ea6",
+    "#138759",
+    "#b845b3"
+  ],
+  "costumes": [
+    "Trench coats with fedora hats and leather gloves",
+    "Double-breasted suits with pocket squares",
+    "Silk gowns with fur stoles and pearl necklaces",
+    "Detective overcoats with wide-brimmed hats",
+    "Pinstripe suits with suspenders and cigars"
+  ],
+  "lighting": [
+    "Harsh shadows from venetian blinds",
+    "Streetlamp glow reflecting off wet pavement",
+    "Low-key chiaroscuro lighting in alleyways",
+    "Backlit silhouettes in smoky offices",
+    "Flashing neon signs cutting through fog"
+  ],
+  "prompt_keywords": [
+    "detective",
+    "foggy alley",
+    "private eye",
+    "whiskey glass",
+    "smoke curl",
+    "femme fatale",
+    "gun holster",
+    "typewriter click",
+    "gritty city",
+    "shady deal",
+    "black and white",
+    "crime scene",
+    "neon flicker",
+    "bullet casings",
+    "stacked files",
+    "interrogation room",
+    "gravel voice",
+    "pistol draw",
+    "dim-lit bar",
+    "confession"
+  ]
+}
+,
+  "fantasy": {
+  "colors": [
+    "#f9c337",
+    "#86a2ce",
+    "#0e24ca",
+    "#970a54",
+    "#8931a7"
+  ],
+  "costumes": [
+    "Flowing robes with enchanted embroidery and hoods",
+    "Knight armor with glowing runes and dragon emblems",
+    "Elven tunics with leaf patterns and silver circlets",
+    "Wizard cloaks with crystal pendants and staffs",
+    "Royal garments with golden trims and mystical sigils"
+  ],
+  "lighting": [
+    "Twinkling light from floating orbs",
+    "Moonlight over misty enchanted forests",
+    "Flickering torchlight in ancient ruins",
+    "Magical glow from spell-casting hands",
+    "Radiance from a mythical portal or relic"
+  ],
+  "prompt_keywords": [
+    "dragon",
+    "wizard",
+    "enchanted forest",
+    "spellbook",
+    "crystal orb",
+    "castle tower",
+    "elven blade",
+    "ancient prophecy",
+    "mythical beast",
+    "scroll",
+    "magic circle",
+    "dungeon gate",
+    "fireball",
+    "talking tree",
+    "wand",
+    "griffin flight",
+    "potion flask",
+    "enchanted armor",
+    "cursed ring",
+    "floating island"
+  ]
+}
+,
+  "jungle": {
+    "colors": [
+      "#3f1617",
+      "#71d6ed",
+      "#065c5a",
+      "#9b5a75",
+      "#972092"
+    ],
+    "costumes": [
+      "Leaf-camouflage tunics",
+      "Khaki explorer outfits with hats",
+      "Tribal warrior gear with feathers",
+      "Safari suits with binoculars",
+      "Jungle mercenary armor with boots"
+    ],
+    "lighting": [
+      "Filtered sunlight through thick canopy",
+      "Shadowy green hues under trees",
+      "Rain-speckled misty glow",
+      "Bioluminescent undergrowth shimmer",
+      "Golden sunset across vines and trees"
+    ],
+    "prompt_keywords": [
+      "rainforest",
+      "tropical",
+      "vines",
+      "jungle animals",
+      "camouflage",
+      "wild terrain",
+      "dense foliage",
+      "tribes",
+      "monkeys",
+      "exploration",
+      "adventure",
+      "river crossing",
+      "jungle night",
+      "ferns",
+      "survival",
+      "tracking",
+      "insects",
+      "hidden ruins",
+      "natural traps",
+      "wild sounds"
+    ]
+  },
+  "mountain": {
+  "colors": [
+    "#54ad67",
+    "#3b025b",
+    "#043d8b",
+    "#fd5439",
+    "#11db56"
+  ],
+  "costumes": [
+    "Thick woolen coats with hiking boots",
+    "Sherpa-style tunics with layered sashes",
+    "Camouflage snow gear with goggles",
+    "Mountaineer harness suits with helmets",
+    "Rugged explorer outfits with rope belts"
+  ],
+  "lighting": [
+    "Bright sun reflecting off snowy peaks",
+    "Golden sunrise casting long shadows on cliffs",
+    "Mist-diffused light in early dawn",
+    "Twilight hues over jagged ridgelines",
+    "Lantern glow in mountain caves"
+  ],
+  "prompt_keywords": [
+    "snowcap",
+    "summit",
+    "cliff edge",
+    "trail",
+    "hiking gear",
+    "cabin",
+    "campfire",
+    "rope bridge",
+    "foggy pass",
+    "rockslide",
+    "ice axe",
+    "glacier",
+    "yeti legend",
+    "pine forest",
+    "eagle cry",
+    "trek",
+    "goat path",
+    "avalanche",
+    "cairn",
+    "wind chill"
+  ]
+},
+  "underwater": {
+  "colors": [
+    "#e799d3",
+    "#640dc8",
+    "#1dbdb3",
+    "#6afc98",
+    "#fff864"
+  ],
+  "costumes": [
+    "Diver suits with oxygen tanks and flippers",
+    "Mermaid tails with shimmering scales",
+    "Bioluminescent wetsuits with fins",
+    "Ancient sunken temple explorer outfits",
+    "Sea creature-inspired armor with coral accents"
+  ],
+  "lighting": [
+    "Sun rays piercing through ocean surface",
+    "Blue ambient glow from deep-sea depths",
+    "Shimmering reflections from coral reefs",
+    "Flickering light from jellyfish and plankton",
+    "Submarine spotlights scanning the seafloor"
+  ],
+  "prompt_keywords": [
+    "coral reef",
+    "sunken ship",
+    "mermaid",
+    "diver",
+    "sea turtle",
+    "bubble trail",
+    "deep sea",
+    "octopus",
+    "undersea temple",
+    "glowing fish",
+    "kelp forest",
+    "treasure chest",
+    "school of fish",
+    "submarine",
+    "shipwreck",
+    "pearls",
+    "shark fin",
+    "cave pool",
+    "crab walk",
+    "ocean floor"
+  ]
+}
+,
+  "fairytale": {
+  "colors": [
+    "#f20a34",
+    "#67b487",
+    "#4e8176",
+    "#185575",
+    "#cd72e1"
+  ],
+  "costumes": [
+    "Princess gowns with flowing trains and tiaras",
+    "Knight armor with shining swords and crests",
+    "Witch cloaks with pointy hats and brooches",
+    "Talking animal outfits with enchanted capes",
+    "Royal court robes with golden embroidery"
+  ],
+  "lighting": [
+    "Soft magical glows around enchanted forests",
+    "Twilight shimmer with sparkling dust",
+    "Moonlight on a cobblestone castle path",
+    "Firefly lanterns floating in the air",
+    "Golden light from a wish-granting wand"
+  ],
+  "prompt_keywords": [
+    "enchanted forest",
+    "princess",
+    "magic spell",
+    "fairy dust",
+    "talking animals",
+    "evil queen",
+    "castle tower",
+    "golden carriage",
+    "dragon",
+    "sorcerer",
+    "magic mirror",
+    "storybook",
+    "hidden kingdom",
+    "witch's cottage",
+    "glowing wand",
+    "royal ball",
+    "frog prince",
+    "sparkling crown",
+    "wish tree",
+    "crystal shoes"
+  ]
+}
+,
+ "village": {
+  "colors": [
+    "#1c5e91",
+    "#dd1f92",
+    "#1c6a7e",
+    "#2c91c6",
+    "#43a1c1"
+  ],
+  "costumes": [
+    "Cotton dhotis and simple blouses with regional patterns",
+    "Farmer attire with lungis, turbans, and vests",
+    "Handwoven sarees with earthy tones",
+    "Rural school uniforms and braided hair",
+    "Festive folk dance outfits with bells and embroidery"
+  ],
+  "lighting": [
+    "Soft amber glow from oil lamps at dusk",
+    "Sunrise over haystacks and rooftops",
+    "Moonlight reflecting on water from a hand-pump",
+    "Lantern-lit mud pathways at night",
+    "Sunbeams streaming through palm or banyan trees"
+  ],
+  "prompt_keywords": [
+    "thatched roof",
+    "mud walls",
+    "bullock cart",
+    "hand pump",
+    "open field",
+    "banyan tree",
+    "village well",
+    "cattle shed",
+    "temple bells",
+    "harvest festival",
+    "grinding stone",
+    "folksong",
+    "riverbank",
+    "clay pot",
+    "rooster crow",
+    "haystack",
+    "grain storage",
+    "veranda",
+    "wooden plough",
+    "local market"
+  ]
+}
+,
+ "dystopia": {
+  "colors": [
+    "#8fcb07",
+    "#97fb16",
+    "#9e03c7",
+    "#1d8b99",
+    "#80b327"
+  ],
+  "costumes": [
+    "Tattered uniforms with barcode patches",
+    "Gas masks and heavy-duty survival gear",
+    "Metallic exo-suits with warning labels",
+    "Layered street-rag clothing with makeshift armor",
+    "Hooded cloaks with hidden tech implants"
+  ],
+  "lighting": [
+    "Flickering neon signs in smog-filled skies",
+    "Dim streetlamps casting harsh shadows",
+    "Backlit silhouettes against smoky factories",
+    "Cold fluorescent lighting in bunkers",
+    "Red emergency lights in underground zones"
+  ],
+  "prompt_keywords": [
+    "surveillance drones",
+    "ruined skyline",
+    "totalitarian regime",
+    "biohazard zone",
+    "resistance graffiti",
+    "gas mask",
+    "checkpoints",
+    "digital ID",
+    "underground rebellion",
+    "urban decay",
+    "ration card",
+    "cyber implants",
+    "abandoned subway",
+    "high-tech oppression",
+    "grimy tunnels",
+    "silent protest",
+    "deserted city",
+    "overcrowded slums",
+    "hazard suits",
+    "AI dictatorship"
+  ]
+}
+,
+  "sunset": {
+  "colors": [
+    "#dc2c39",
+    "#4c100a",
+    "#373fa9",
+    "#2cdfed",
+    "#9cab73"
+  ],
+  "costumes": [
+    "Flowing dresses in warm gradient tones",
+    "Silhouetted figures in windblown scarves",
+    "Casual summer wear with soft fabrics",
+    "Beachside evening outfits with sandals",
+    "Romantic picnic attire with pastel overlays"
+  ],
+  "lighting": [
+    "Golden hour glow casting long shadows",
+    "Fiery red hues reflecting off glass buildings",
+    "Backlight silhouette against fading sun",
+    "Orange and purple clouds illuminating faces",
+    "Twilight fading into cool blue dusk"
+  ],
+  "prompt_keywords": [
+    "sunset sky",
+    "orange glow",
+    "golden hour",
+    "silhouette",
+    "romantic vibe",
+    "evening walk",
+    "soft breeze",
+    "twilight calm",
+    "burning horizon",
+    "city skyline at dusk",
+    "beach sunset",
+    "reflected sun",
+    "pastel skies",
+    "fading light",
+    "sun-drenched",
+    "hazy distance",
+    "sunset rooftop",
+    "warm nostalgia",
+    "sun-kissed clouds",
+    "peaceful ending"
+  ]
+}, 
+"rainy_city": {
+  "colors": [
+    "#ea0fb7",
+    "#1d9d6e",
+    "#c4b1bd",
+    "#1eaff6",
+    "#dbf110"
+  ],
+  "costumes": [
+    "Trench coats with upturned collars",
+    "Sleek waterproof jackets with hoods",
+    "Formal wear under transparent umbrellas",
+    "Urban outfits with boots and scarves",
+    "Casual clothes with wet textures and neon reflections"
+  ],
+  "lighting": [
+    "Streetlights blurred through raindrops",
+    "Neon reflections shimmering on wet pavement",
+    "Car headlights diffused in heavy rain",
+    "Blue-gray atmosphere with flashes of color",
+    "Dim glow from cafe windows in the drizzle"
+  ],
+  "prompt_keywords": [
+    "rain-soaked streets",
+    "neon glow",
+    "puddle reflections",
+    "umbrellas",
+    "midnight drizzle",
+    "foggy alleyways",
+    "blurry lights",
+    "urban melancholy",
+    "wet concrete",
+    "raindrop trails",
+    "mood lighting",
+    "lonely walks",
+    "passing trams",
+    "city silence",
+    "red tail lights",
+    "late night thunder",
+    "cafe warmth",
+    "dripping raincoats",
+    "glossy sidewalks",
+    "stormy skyline"
+  ]
+}
+,"medieval": {
+  "colors": [
+    "#225078",
+    "#45340d",
+    "#cf3439",
+    "#66ccb4",
+    "#deeec0"
+  ],
+  "costumes": [
+    "Chainmail armor with leather belts",
+    "Peasant tunics and cloaks",
+    "Royal robes with fur trims and crests",
+    "Knight's armor with tabards and gauntlets",
+    "Monk robes with rope belts and hoods"
+  ],
+  "lighting": [
+    "Torch-lit castle corridors",
+    "Dim candlelight in stone halls",
+    "Dramatic sunlight through stained glass",
+    "Flickering firelight from hearths",
+    "Moonlight over foggy battlefields"
+  ],
+  "prompt_keywords": [
+    "castle walls",
+    "sword fights",
+    "iron armor",
+    "dungeon torchlight",
+    "noble courts",
+    "knights and horses",
+    "archery tournaments",
+    "village markets",
+    "plague masks",
+    "chivalry",
+    "blacksmith forge",
+    "feast tables",
+    "catapults",
+    "moat bridges",
+    "squires and pages",
+    "scrolls and parchments",
+    "crown and throne",
+    "siege warfare",
+    "old churches",
+    "medieval banners"
+  ]
+}
+,
+  "cabin": {
+  "colors": [
+    "#438ee0",
+    "#37f9f2",
+    "#b8bff9",
+    "#acbdeb",
+    "#aeb8c3"
+  ],
+  "costumes": [
+    "Wool flannel shirts with suspenders",
+    "Fur-lined winter parkas and boots",
+    "Corduroy pants with knit sweaters",
+    "Lumberjack jackets with beanies",
+    "Thermal wear with rustic scarves"
+  ],
+  "lighting": [
+    "Warm amber fireplace glow",
+    "Soft lantern light through foggy windows",
+    "Dim natural daylight through log slats",
+    "Moonlight reflecting on snowy woodlands",
+    "Flickering oil lamp on wooden tables"
+  ],
+  "prompt_keywords": [
+    "log cabin",
+    "wood stove",
+    "pine forest",
+    "crackling fire",
+    "cozy retreat",
+    "snowfall outside",
+    "wood chopping",
+    "animal pelts",
+    "cabin porch",
+    "antique lanterns",
+    "homemade quilts",
+    "whistling kettle",
+    "stacked firewood",
+    "bear rug",
+    "wood-paneled walls",
+    "creaking floorboards",
+    "solitude",
+    "forest silence",
+    "rocking chair",
+    "mountain view"
+  ]
+}
+,
+  "autumn": {
+  "colors": [
+    "#e3abc5",
+    "#b1c112",
+    "#a82052",
+    "#a88a1d",
+    "#403daa"
+  ],
+  "costumes": [
+    "Woolen coats with plaid scarves",
+    "Oversized cardigans and ankle boots",
+    "Earth-tone jackets with knit hats",
+    "Corduroy pants with leaf-patterned sweaters",
+    "Long trench coats with leather gloves"
+  ],
+  "lighting": [
+    "Golden hour sunlight through falling leaves",
+    "Overcast soft amber glow",
+    "Sunbeams filtering through orange treetops",
+    "Dim cabin lighting with candle flickers",
+    "Cool twilight blue under tree canopy"
+  ],
+  "prompt_keywords": [
+    "fallen leaves",
+    "pumpkin patches",
+    "crisp air",
+    "golden light",
+    "apple picking",
+    "bonfire nights",
+    "harvest time",
+    "flannel",
+    "thanksgiving",
+    "cornfields",
+    "acorns",
+    "cinnamon scent",
+    "sweater weather",
+    "wind rustling leaves",
+    "scarecrows",
+    "migrating birds",
+    "forest trails",
+    "spiced drinks",
+    "bare trees",
+    "seasonal change"
+  ]
+}
+,
+  "pirate": {
+  "colors": [
+    "#ad5da1",
+    "#d2205b",
+    "#481c8d",
+    "#07bbf5",
+    "#18eb7b"
+  ],
+  "costumes": [
+    "Tattered coats with golden epaulets and tri-corner hats",
+    "Striped shirts with leather belts and cutlasses",
+    "Bandanas, eye patches, and peg legs",
+    "Long trench coats with embroidered cuffs and compass pendants",
+    "Blouse with corset, pirate boots, and hoop earrings"
+  ],
+  "lighting": [
+    "Flickering lanterns in wooden ship interiors",
+    "Moonlight reflecting off ocean waves",
+    "Golden glow during treasure chest discovery",
+    "Stormy lightning through cracked sails",
+    "Sunset silhouette on a pirate ship deck"
+  ],
+  "prompt_keywords": [
+    "treasure maps",
+    "wooden ships",
+    "buried gold",
+    "sea battles",
+    "rum barrels",
+    "stormy seas",
+    "skull flags",
+    "cutlass duels",
+    "cannon fire",
+    "island hideouts",
+    "sea shanties",
+    "shipwrecks",
+    "nautical compass",
+    "parrots",
+    "eyepatch",
+    "Jolly Roger",
+    "captain's quarters",
+    "anchor chains",
+    "ropes and rigging",
+    "sunken treasures"
+  ]
+}
+,
+  "school": {
+  "colors": [
+    "#7e67ea",
+    "#74d9af",
+    "#9ac6dd",
+    "#1f275b",
+    "#13189c"
+  ],
+  "costumes": [
+    "Checkered school uniforms with neckties and ID cards",
+    "Blazers with emblem patches and pleated skirts/pants",
+    "PE kits with sports shoes and school logos",
+    "Lab coats with safety goggles and notebooks",
+    "Traditional school uniforms with satchels and badges"
+  ],
+  "lighting": [
+    "Morning sunlight streaming through classroom windows",
+    "Bright fluorescent lights above whiteboards",
+    "Soft daylight in school courtyards",
+    "Warm afternoon glow in empty hallways",
+    "Overhead lighting in nighttime study sessions"
+  ],
+  "prompt_keywords": [
+    "chalkboard",
+    "classroom",
+    "desks and benches",
+    "school bell",
+    "uniform",
+    "backpacks",
+    "recess",
+    "homework",
+    "morning assembly",
+    "science lab",
+    "sports day",
+    "school bus",
+    "library shelves",
+    "exams",
+    "notebooks",
+    "teachers",
+    "student groups",
+    "project charts",
+    "class toppers",
+    "canteen scenes"
+  ]
+}
+,
+ "hospital": {
+  "colors": [
+    "#644228",
+    "#09e178",
+    "#451351",
+    "#eede7b",
+    "#bfc45f"
+  ],
+  "costumes": [
+    "Doctors in white coats with stethoscopes and ID tags",
+    "Nurses in scrubs and surgical caps",
+    "Surgeons in green sterile gowns with gloves and masks",
+    "Patients in hospital gowns with IV drips",
+    "Administrative staff in formal wear with clipboards and tablets"
+  ],
+  "lighting": [
+    "Bright sterile overhead fluorescent lights",
+    "Soft ambient lighting in patient rooms",
+    "Emergency red alert lights in ICU",
+    "Cool surgical room spotlighting",
+    "Natural morning light in waiting areas"
+  ],
+  "prompt_keywords": [
+    "operating room",
+    "emergency ward",
+    "hospital hallway",
+    "patient bed",
+    "ICU monitors",
+    "medical staff",
+    "hospital gurney",
+    "syringes and IVs",
+    "hospital waiting room",
+    "x-ray scans",
+    "surgical tools",
+    "heartbeat monitor",
+    "oxygen masks",
+    "doctor-patient conversation",
+    "hospital corridor",
+    "discharge paperwork",
+    "prescription pads",
+    "pharmacy counter",
+    "ambulance arrival",
+    "sterile gloves"
+  ]
+}
+,
+  "prison": {
+  "colors": [
+    "#1ed10b",
+    "#325e24",
+    "#b71286",
+    "#b591af",
+    "#8e9a97"
+  ],
+  "costumes": [
+    "Orange inmate jumpsuits with serial numbers",
+    "Gray prison uniforms with belts and boots",
+    "Prison guards in dark uniforms with batons",
+    "Inmates in worn-out clothes with handcuffs",
+    "Warden in formal attire with badge and keys"
+  ],
+  "lighting": [
+    "Flickering overhead fluorescent lights",
+    "Dim cell block lighting with metal shadows",
+    "Cold blue hallway illumination",
+    "Spotlight beams in interrogation room",
+    "Natural light seeping through barred windows"
+  ],
+  "prompt_keywords": [
+    "prison cell bars",
+    "guard patrol",
+    "inmate riot",
+    "cell block corridor",
+    "prison yard",
+    "solitary confinement",
+    "security cameras",
+    "metallic clang",
+    "handcuffed prisoners",
+    "watchtower",
+    "razor wire fence",
+    "prison break",
+    "mugshot scene",
+    "food tray line",
+    "inmate fight",
+    "lockdown announcement",
+    "uniformed guards",
+    "prison sirens",
+    "warden’s office",
+    "visitation booth"
+  ]
+}
+,
+  "market": {
+  "colors": [
+    "#479120",
+    "#d45206",
+    "#843e66",
+    "#3e4d12",
+    "#49f2bd"
+  ],
+  "costumes": [
+    "Vendors in aprons with cloth headwraps",
+    "Buyers in casual ethnic outfits with shopping bags",
+    "Fruit sellers in stained shirts and rolled-up sleeves",
+    "Street performers in colorful patchwork clothes",
+    "Traditional dress with local embroidery and baskets"
+  ],
+  "lighting": [
+    "Warm morning sunlight over crowded stalls",
+    "String lights hanging across night markets",
+    "Sunbeams through tented canopies",
+    "Neon sign reflections on wet pavements",
+    "Lantern glow highlighting vendor counters"
+  ],
+  "prompt_keywords": [
+    "fruit stalls",
+    "crowded bazaar",
+    "street vendors",
+    "negotiating prices",
+    "spices in burlap sacks",
+    "colorful fabrics",
+    "market chatter",
+    "baskets of vegetables",
+    "hanging lanterns",
+    "busy walkways",
+    "hawker calls",
+    "open-air market",
+    "fish market scene",
+    "cultural fair",
+    "clothing racks",
+    "traditional carts",
+    "local delicacies",
+    "paper currency exchange",
+    "child with balloon",
+    "music in background"
+  ]
+}
+,
+  "subway": {
+  "colors": [
+    "#5e30bb",
+    "#443a9f",
+    "#3cf2ee",
+    "#4cc5c5",
+    "#84363e"
+  ],
+  "costumes": [
+    "Commuters in business suits with messenger bags",
+    "Streetwear with hoodies and headphones",
+    "Students with backpacks and transit passes",
+    "Late-night travelers in casual jackets",
+    "Security in reflective vests and badges"
+  ],
+  "lighting": [
+    "Harsh fluorescent tube lighting",
+    "Flickering overhead bulbs in tunnels",
+    "Soft neon ads along platform walls",
+    "Dim train interior lights",
+    "Strobing track-side lights during train approach"
+  ],
+  "prompt_keywords": [
+    "metro tunnel",
+    "platform crowd",
+    "arrival announcement",
+    "escalator descent",
+    "graffiti on subway walls",
+    "train doors opening",
+    "turnstiles and passes",
+    "underground ambiance",
+    "commuter rush",
+    "echoing footsteps",
+    "subway maps",
+    "ticket machines",
+    "safety announcements",
+    "hustle and bustle",
+    "station bench",
+    "evening transit",
+    "conductor voice",
+    "track vibration",
+    "waiting passengers",
+    "underground art"
+  ]
+}
+,
+  "heist": {
+  "colors": [
+    "#76cc7e",
+    "#2917e5",
+    "#e7a63c",
+    "#3a37d2",
+    "#c01715"
+  ],
+  "costumes": [
+    "Sleek black suits with gloves and earpieces",
+    "Tech-gear jumpsuits with harnesses and night vision",
+    "Disguises like security uniforms or delivery outfits",
+    "Thieves in casual wear with masks and duffel bags",
+    "Mastermind in trench coat and glasses with blueprint case"
+  ],
+  "lighting": [
+    "Flickering fluorescent vault lights",
+    "Infrared beam scanners in dark hallways",
+    "Harsh spotlight during getaway",
+    "Red alarm lights flashing throughout building",
+    "Low-light night-time stakeout glow"
+  ],
+  "prompt_keywords": [
+    "laser grid",
+    "vault door",
+    "blueprints",
+    "silent alarm",
+    "getaway car",
+    "mask and gloves",
+    "cameras disabled",
+    "inside man",
+    "timed entry",
+    "security codes",
+    "stealth entry",
+    "money bags",
+    "alarm countdown",
+    "escape tunnel",
+    "hostage situation",
+    "surveillance footage",
+    "cracking safe",
+    "rooftop chase",
+    "decoy plan",
+    "last-second escape"
+  ]
+}
+,
+  "opera": {
+  "colors": [
+    "#d78062",
+    "#3f1cc6",
+    "#4e8f04",
+    "#35f3fd",
+    "#52dade"
+  ],
+  "costumes": [
+    "Victorian gowns with intricate embroidery and corsets",
+    "Tuxedos with long tailcoats, bowties, and top hats",
+    "Velvet cloaks with golden trims and elaborate brooches",
+    "Powdered wigs and feathered masks for masquerade scenes",
+    "Renaissance-inspired stage performer costumes"
+  ],
+  "lighting": [
+    "Golden spotlight on lead vocalist",
+    "Soft blue overhead ambiance for tragic arias",
+    "Red velvet glow on grand curtain open",
+    "Candle-like flickering on balcony boxes",
+    "Chiaroscuro lighting for dramatic scenes"
+  ],
+  "prompt_keywords": [
+    "grand stage",
+    "opera house",
+    "balcony seats",
+    "red velvet curtains",
+    "dramatic aria",
+    "orchestra pit",
+    "masquerade ball",
+    "tragic love",
+    "vocal crescendo",
+    "final bow",
+    "backstage makeup",
+    "libretto script",
+    "stage lights",
+    "tenor performance",
+    "spotlight drama",
+    "costume change",
+    "phantom presence",
+    "echoing halls",
+    "music sheets",
+    "emotional climax"
+  ]
+}
+,
+ "circus": {
+  "colors": [
+    "#128888",
+    "#137336",
+    "#5a186f",
+    "#491c40",
+    "#86a712"
+  ],
+  "costumes": [
+    "Ringmaster coat with gold trims and top hat",
+    "Colorful clown suit with oversized buttons and wig",
+    "Acrobat leotards with glitter and sequins",
+    "Animal tamer outfit with whip and boots",
+    "Strongman costume with striped singlet and barbell belt"
+  ],
+  "lighting": [
+    "Colorful rotating spotlights sweeping the tent",
+    "Bright overhead beams on center ring",
+    "Soft warm lights for audience reactions",
+    "Strobe effects during acrobatic stunts",
+    "Torch-lit entrances and exits for performers"
+  ],
+  "prompt_keywords": [
+    "big top tent",
+    "juggling act",
+    "aerial silk",
+    "tightrope walker",
+    "roaring crowd",
+    "clown makeup",
+    "fire breather",
+    "elephant parade",
+    "lion tamer",
+    "circus orchestra",
+    "balancing act",
+    "trapeze swing",
+    "sawdust stage",
+    "ringmaster",
+    "popcorn vendor",
+    "carnival lights",
+    "spotlight drama",
+    "acrobatic flips",
+    "backstage bustle",
+    "circus finale"
+  ]
+}
+,
+ "alien": {
+  "colors": [
+    "#3d015c",
+    "#660d10",
+    "#795f16",
+    "#64aa9b",
+    "#1c9399"
+  ],
+  "costumes": [
+    "Translucent bio-suits with glowing veins",
+    "Silicone-textured exoskeleton armor",
+    "Holographic cloaks with shape-shifting edges",
+    "Metallic space gear with multiple lenses",
+    "Slime-coated organic fabric suits"
+  ],
+  "lighting": [
+    "Pulsating neon glows from spacecraft interiors",
+    "Iridescent hues on alien planet landscapes",
+    "Cold ultraviolet backlighting with lens flares",
+    "Flickering green strobes in control rooms",
+    "Dim bioluminescent trails left behind movement"
+  ],
+  "prompt_keywords": [
+    "extraterrestrial contact",
+    "UFO crash site",
+    "abduction scenario",
+    "alien hive",
+    "cosmic invasion",
+    "zero-gravity chamber",
+    "galactic transmission",
+    "space anomaly",
+    "alien autopsy",
+    "telepathic link",
+    "wormhole gateway",
+    "unearthly terrain",
+    "first encounter",
+    "morphing biology",
+    "alien mothership",
+    "otherworldly artifact",
+    "mutant hybrids",
+    "energy beam",
+    "interstellar language",
+    "Xeno-research lab"
+  ]
+}
+,
+ "countryside": {
+  "colors": [
+    "#7ebbe6",
+    "#5a4411",
+    "#350a90",
+    "#29e850",
+    "#64a2f0"
+  ],
+  "costumes": [
+    "Floral cotton dresses with straw hats",
+    "Plaid shirts and denim overalls",
+    "Traditional farmer attire with wide-brim hats",
+    "Rustic vests and woolen shawls",
+    "Simple frocks and muddy boots"
+  ],
+  "lighting": [
+    "Golden hour sunlight over rolling hills",
+    "Soft dawn glow over misty fields",
+    "Moonlit barnyard with distant stars",
+    "Lantern-lit porches and dirt paths",
+    "Sunbeam shafts cutting through tall grass"
+  ],
+  "prompt_keywords": [
+    "rolling meadows",
+    "wheat fields",
+    "barns and silos",
+    "hay bales",
+    "rural simplicity",
+    "sunset over hills",
+    "dirt roads",
+    "scarecrows",
+    "cow pastures",
+    "tractor rides",
+    "morning dew",
+    "windmill backdrop",
+    "cattle herding",
+    "homestead life",
+    "village fair",
+    "flower picking",
+    "wooden fences",
+    "farm chores",
+    "picnic in fields",
+    "chickens and roosters"
+  ]
+}
+,
+  "sports_arena": {
+  "colors": [
+    "#415016",
+    "#36f721",
+    "#b47543",
+    "#d27744",
+    "#b329b2"
+  ],
+  "costumes": [
+    "Team jerseys and sweatbands",
+    "Athletic tracksuits and branded sneakers",
+    "Referee uniform with whistle",
+    "Cheerleader outfits with pom-poms",
+    "Training gear with compression sleeves"
+  ],
+  "lighting": [
+    "High-intensity stadium floodlights",
+    "Spotlight focus on central stage",
+    "Flickering scoreboard illumination",
+    "Sunset glow over open-air field",
+    "Vibrant indoor arena color washes"
+  ],
+  "prompt_keywords": [
+    "crowd cheering",
+    "stadium lights",
+    "scoreboard glow",
+    "goal celebration",
+    "locker room",
+    "team spirit",
+    "national anthem ceremony",
+    "players in action",
+    "sideline coach",
+    "whistle blow",
+    "jump shot",
+    "penalty kick",
+    "athletic endurance",
+    "victory dance",
+    "overtime thrill",
+    "field view",
+    "bleachers packed",
+    "match tension",
+    "championship",
+    "post-game interview"
+  ]
+}
+,
+ "temple": {
+  "colors": [
+    "#3e2b28",
+    "#3bffb2",
+    "#eecd25",
+    "#c6c236",
+    "#d3126d"
+  ],
+  "costumes": [
+    "Traditional silk dhoti with angavastram",
+    "Saree with temple border and jasmine garlands",
+    "Priest robes with sacred thread",
+    "Devotee attire with tilak and rudraksha beads",
+    "Folk dancers in classical costume"
+  ],
+  "lighting": [
+    "Golden aarti flame lighting",
+    "Soft morning sunlight through temple arch",
+    "Oil lamp glow in sanctum",
+    "Festive lantern illumination",
+    "Cool moonlight over stone corridor"
+  ],
+  "prompt_keywords": [
+    "temple gopuram",
+    "bell ringing",
+    "devotee queue",
+    "ritual aarti",
+    "incense smoke",
+    "sandalwood paste",
+    "chanting priests",
+    "flower garlands",
+    "sacred pond",
+    "stone sculptures",
+    "sunrise darshan",
+    "temple chariot",
+    "traditional hymns",
+    "sacred offering plate",
+    "temple courtyard",
+    "pilgrimage path",
+    "devotional flags",
+    "archway carvings",
+    "prasadam distribution",
+    "holy fire altar"
+  ]
+}
+,
+ "train": {
+  "colors": [
+    "#dc2c97",
+    "#e7ee64",
+    "#3ba172",
+    "#147fa2",
+    "#bad7a1"
+  ],
+  "costumes": [
+    "Ticket checker uniform with cap and badge",
+    "Passenger in formal wear with a laptop bag",
+    "Sleeper class traveler in casual attire with shawl",
+    "Vendor in apron with tea flask",
+    "Pilgrim in simple traditional clothes with small backpack"
+  ],
+  "lighting": [
+    "Warm yellow cabin light",
+    "Passing light streaks through train window",
+    "Dim corridor light during night journey",
+    "Sunlight streaming into compartments",
+    "Flashing lights at a train crossing"
+  ],
+  "prompt_keywords": [
+    "railway platform",
+    "moving train",
+    "station announcement",
+    "train window view",
+    "overhead luggage rack",
+    "vendors on platform",
+    "ticket checking",
+    "engine horn",
+    "bridge crossing",
+    "train tunnel",
+    "passenger waiting",
+    "sliding door",
+    "rustic train tracks",
+    "window bars",
+    "overcrowded compartment",
+    "compartment seat labels",
+    "tea and snacks",
+    "train at sunset",
+    "station nameboard",
+    "luggage stacking"
+  ]
+}
+,
+ "carnival": {
+  "colors": [
+    "#50fdef",
+    "#889cc6",
+    "#ea9564",
+    "#4ab4a5",
+    "#358d65"
+  ],
+  "costumes": [
+    "Bright jester costume with bells and patchwork fabric",
+    "Colorful feathered dancer outfit with sequins",
+    "Circus ringmaster in red coat and top hat",
+    "Children dressed as clowns with oversized shoes",
+    "Candy vendor in striped apron and cap"
+  ],
+  "lighting": [
+    "Strobe lights from carnival rides",
+    "Colorful festoon lights hanging overhead",
+    "Spotlights on parade performers",
+    "Flashing neon signage on booths",
+    "Soft lantern glow near food stalls"
+  ],
+  "prompt_keywords": [
+    "ferris wheel lights",
+    "cotton candy vendor",
+    "clown makeup",
+    "ticket booth queue",
+    "juggling performance",
+    "balloon animals",
+    "parade floats",
+    "fire breather show",
+    "carousel spinning",
+    "laughter and music",
+    "game stalls with plush toys",
+    "popcorn scent",
+    "stage with dancers",
+    "face painting corner",
+    "mirror maze reflections",
+    "costumed performers",
+    "midway games",
+    "whack-a-mole game",
+    "crowd cheering",
+    "carnival evening sky"
+  ]
+}
+,
+  "museum": {
+  "colors": [
+    "#c5b812",
+    "#2135c9",
+    "#e6d040",
+    "#28d296",
+    "#17ce6d"
+  ],
+  "costumes": [
+    "Conservative attire with blazers and lanyards",
+    "Vintage historian outfit with tweed jacket",
+    "Curator in formal wear with gloves",
+    "Art student in casual layered clothing and sketchbook",
+    "Security guard uniform with earpiece"
+  ],
+  "lighting": [
+    "Overhead gallery spotlights on art",
+    "Soft white ambient lighting in corridors",
+    "Warm focus lighting for antique exhibits",
+    "Track lights highlighting paintings",
+    "Cool white LEDs in modern sections"
+  ],
+  "prompt_keywords": [
+    "ancient sculpture display",
+    "glass display case",
+    "historic artifact lighting",
+    "guided tour group",
+    "information placard",
+    "paintings in gold frames",
+    "natural history wing",
+    "fossil exhibit",
+    "interactive touchscreen display",
+    "archaeology section",
+    "quiet observation",
+    "restoration lab window",
+    "audio guide visitor",
+    "museum floor plan",
+    "gift shop with replicas",
+    "hall of statues",
+    "temporary art exhibit",
+    "elevator to upper gallery",
+    "visitor brochure",
+    "museum dome ceiling"
+  ]
+}
+,
+ "laboratory": {
+  "colors": [
+    "#24e74c",
+    "#3a04ac",
+    "#ac28a2",
+    "#5ab33a",
+    "#94773b"
+  ],
+  "costumes": [
+    "White lab coat with safety goggles and gloves",
+    "Chemistry researcher in apron with test tubes",
+    "Biotech lab technician with clipboard and ID badge",
+    "Medical researcher in full PPE gear",
+    "Field scientist in rugged lab attire and utility belt"
+  ],
+  "lighting": [
+    "Bright overhead fluorescent lights",
+    "Cool white lighting for sterile zones",
+    "Blue backlight for biochemical testing",
+    "Focused light beams on microscopes",
+    "Soft emergency lighting near hazardous zones"
+  ],
+  "prompt_keywords": [
+    "glass beaker bubbling",
+    "centrifuge machine spinning",
+    "DNA sequencing panel",
+    "whiteboard with formulas",
+    "hazmat suit protocol",
+    "biohazard symbol",
+    "lab assistant noting results",
+    "fume hood ventilation",
+    "high voltage lab sign",
+    "chemical reaction flask",
+    "sample under microscope",
+    "petri dish growth",
+    "laser apparatus alignment",
+    "test tube rack",
+    "gloved hand with pipette",
+    "researcher logging data",
+    "clinical trial observation",
+    "emergency shower station",
+    "sterile glove dispenser",
+    "safety instruction chart"
+  ]
+}
+,
+  "farm": {
+  "colors": [
+    "#39d0d0",
+    "#54bc07",
+    "#866071",
+    "#85d263",
+    "#53d3b4"
+  ],
+  "costumes": [
+    "Farmer with plaid shirt, overalls, and straw hat",
+    "Worker in muddy boots and utility vest",
+    "Female farmer in denim with sun hat",
+    "Tractor driver in reflective workwear",
+    "Agricultural researcher in field attire"
+  ],
+  "lighting": [
+    "Golden morning sunlight over crops",
+    "Soft natural daylight with clear skies",
+    "Warm sunset glow across fields",
+    "Diffused lighting through barn windows",
+    "Moody pre-rain cloud shadows on land"
+  ],
+  "prompt_keywords": [
+    "barn with red walls",
+    "cow grazing on field",
+    "haystack near fence",
+    "tractor plowing soil",
+    "sunrise over wheat",
+    "rooster on fencepost",
+    "farmer holding pitchfork",
+    "windmill turning slowly",
+    "watering crops",
+    "silo under blue sky",
+    "cornfield with breeze",
+    "goats near wooden barn",
+    "farmhouse porch",
+    "vegetable crates stacked",
+    "muddy boots and path",
+    "irrigation system running",
+    "children feeding chickens",
+    "sunflowers in a row",
+    "wooden fence lining pasture",
+    "freshly harvested produce"
+  ]
+}
+,
+  "mine": {
+  "colors": [
+    "#b7d27b",
+    "#22f8a4",
+    "#89a1e4",
+    "#1da35a",
+    "#7c1f46"
+  ],
+  "costumes": [
+    "Miner in dusty overalls with helmet and headlamp",
+    "Heavy-duty protective mining suit with boots",
+    "Worker with safety vest and utility belt",
+    "Underground technician in reflective gear",
+    "Supervisor in rugged workwear and clipboard"
+  ],
+  "lighting": [
+    "Dim tunnel lights casting long shadows",
+    "Flickering overhead lamps in shafts",
+    "Focused headlamp beams cutting through darkness",
+    "Warm glow from mining equipment",
+    "Natural light filtering faintly from mine entrance"
+  ],
+  "prompt_keywords": [
+    "coal-stained hands",
+    "tunnel with timber support",
+    "rail tracks underground",
+    "miner holding pickaxe",
+    "helmet light in darkness",
+    "ore carts on tracks",
+    "crates of raw minerals",
+    "jackhammer breaking stone",
+    "coal dust cloud",
+    "narrow shaft entry",
+    "explosive warning signs",
+    "rusty mining elevator",
+    "cave-in debris pile",
+    "metal support beams",
+    "deep excavation pit",
+    "chains and pulleys",
+    "ventilation pipes",
+    "abandoned mining tools",
+    "lanterns hanging in line",
+    "worker walking into tunnel"
+  ]
+}
+,
+ "castle": {
+  "colors": [
+    "#aecf34",
+    "#fd55ba",
+    "#3a48b6",
+    "#ff2637",
+    "#f203e6"
+  ],
+  "costumes": [
+    "Knight in shining armor with crest-emblazoned tunic",
+    "Queen in velvet gown with jeweled crown",
+    "Castle guard in chainmail and leather boots",
+    "Court jester in bright, patchy costume",
+    "Royal advisor in long robe with scrolls"
+  ],
+  "lighting": [
+    "Torch-lit stone corridors with flickering shadows",
+    "Moonlight pouring through gothic windows",
+    "Golden chandelier light in banquet halls",
+    "Sunbeams piercing arrow slits",
+    "Dramatic spotlight on the throne room"
+  ],
+  "prompt_keywords": [
+    "moat with drawbridge",
+    "turrets against sky",
+    "royal throne room",
+    "stone masonry arches",
+    "medieval banquet feast",
+    "castle gates with guards",
+    "battlements and lookout towers",
+    "flag waving in wind",
+    "dungeon with iron bars",
+    "armory full of weapons",
+    "castle library with ancient books",
+    "staircase winding up tower",
+    "dragon flying overhead",
+    "courtroom with nobles",
+    "castle wall torch holders",
+    "secret passageway door",
+    "catapult on castle grounds",
+    "king's chamber with canopy bed",
+    "suits of armor lining hallway",
+    "scrolls and ancient maps on table"
+  ]
+}
+,
+ "monastery": {
+  "colors": [
+    "#59e604",
+    "#bc2cb1",
+    "#901d2c",
+    "#671776",
+    "#54d554"
+  ],
+  "costumes": [
+    "Monk in traditional saffron robe",
+    "Novice in plain brown tunic with rope belt",
+    "Head priest in embroidered ceremonial attire",
+    "Pilgrim with walking staff and travel cloak",
+    "Meditation master in minimalist white garments"
+  ],
+  "lighting": [
+    "Soft candlelight in stone prayer halls",
+    "Natural sunlight filtering through lattice windows",
+    "Golden hour glow on ancient brick walls",
+    "Dim lantern light in quiet corridors",
+    "Sunrise illumination during morning chants"
+  ],
+  "prompt_keywords": [
+    "stone meditation hall",
+    "sanskrit scriptures on scrolls",
+    "rows of monks chanting",
+    "peaceful courtyard with bell",
+    "temple drum and gongs",
+    "incense smoke curling upward",
+    "mountain monastery path",
+    "buddhist altar with lotus flowers",
+    "library with ancient manuscripts",
+    "silent vow ceremony",
+    "tibetan prayer flags fluttering",
+    "stone steps leading to shrine",
+    "wooden prayer wheels",
+    "sunset over prayer tower",
+    "sacred tree with lanterns",
+    "ceremonial offering table",
+    "cloister walkway shadows",
+    "wind chimes in gentle breeze",
+    "zen rock garden",
+    "robed figures walking in silence"
+  ]
+}
+
+}
