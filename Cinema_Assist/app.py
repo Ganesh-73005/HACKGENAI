@@ -344,7 +344,7 @@ with col2:
             st.info("💡 Describe your scene")
 
 # Gemini API key
-GEMINI_API_KEY = "AIzaSyDvUfn2DCjBHQn2p_DArEYRi6slWKH3dKM"
+GEMINI_API_KEY = ""
 
 def get_shot_recommendations(scene_description, api_key):
     genai.configure(api_key=api_key)
