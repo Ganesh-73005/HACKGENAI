@@ -1,7 +1,7 @@
 
 # Film Production AI Suite
 
-![Banner Image](https://via.placeholder.com/1200x400?text=Film+Production+AI+Suite)
+
 
 A comprehensive set of AI-powered tools for modern filmmakers, combining storyboard generation with visual theme recommendation capabilities.
 
