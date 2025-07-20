@@ -1,0 +1,276 @@
+[
+  {
+    "id": "story_1_20250719_221440",
+    "title": "Love",
+    "theme": "Drama",
+    "genre": "Drama",
+    "content": "Title: Intern Diaries\r\nTheme: Love Story\r\n\r\nINT. OFFICE - DAY\r\nThe bustling office of a tech startup is filled with the hum of computers and chatter. AMELIA, 23, a shy but brilliant intern, sits at her desk, typing furiously on her laptop. Her desk is neatly organized, with a small potted plant adding a touch of warmth. Across the room, LIAM, 25, a charming and confident intern, is presenting an idea to a group of colleagues. His eyes occasionally flicker toward Amelia, who doesn't notice.\r\n\r\nAMELIA (V.O.)\r\n(softly)\r\nFirst days are always nerve-wracking, but there's something about this place... or maybe someone.\r\n\r\nLiam finishes his presentation, earning a round of applause. He walks over to Amelia's desk, holding two coffee cups.\r\n\r\nLIAM\r\n(smiling)\r\nHey, Amelia, right? Thought you might need a coffee to survive the morning.\r\n\r\nAMELIA\r\n(blushing)\r\nOh, thanks, Liam. That's... really nice.\r\n\r\nThey share a shy smile, and the camera lingers on their hands brushing as she takes the coffee.\r\n\r\nEXT. CITY PARK - EVENING\r\nAmelia and Liam walk through a vibrant city park, the sunset casting a golden glow. They're both in casual clothes, carrying laptops in their bags, clearly coming from a long day at work. They stop by a fountain, where Liam playfully splashes water at Amelia.\r\n\r\nAMELIA\r\n(laughing)\r\nYou're going to regret that!\r\n\r\nShe splashes back, and they end up in a playful chase around the fountain. Their laughter echoes as they collapse onto a bench, catching their breath.\r\n\r\nLIAM\r\n(earnest)\r\nYou know, I didn't expect to find someone like you in this internship. You make these long days... fun.\r\n\r\nAMELIA\r\n(looking down, then up)\r\nI didn't expect it either. But I'm glad.\r\n\r\nTheir eyes meet, and the moment is charged with unspoken feelings. A soft breeze rustles the leaves around them.\r\n\r\nINT. OFFICE - NIGHT\r\nThe office is quiet, with only a few lights on. Amelia and Liam are working late on a project, their desks pushed together. Papers and laptops are scattered around, but there's a comfortable silence between them. Amelia sketches a design on a notepad, and Liam watches her with admiration.\r\n\r\nLIAM\r\n(quietly)\r\nYou're really good at this, you know. I think we're going to nail this project because of you.\r\n\r\nAMELIA\r\n(smiling)\r\nWe’re a team, Liam. I couldn't do it without your crazy ideas.\r\n\r\nThey laugh softly, and Liam reaches for her hand. She hesitates, then laces her fingers with his. The camera pulls back to show the empty office, their silhouettes illuminated by the desk lamp.\r\n\r\nEXT. ROOFTOP - NIGHT\r\nAmelia and Liam stand on the office building's rooftop, the city skyline sparkling below. They're dressed up, as if attending a company event that just ended. Amelia leans against the railing, and Liam stands close, their shoulders touching.\r\n\r\nAMELIA\r\n(softly)\r\nThis internship... it's been more than I expected. Not just the work, but... us.\r\n\r\nLIAM\r\n(looking at her)\r\nAmelia, I don't want this to end when the internship does. I want to see where this goes.\r\n\r\nShe turns to him, her eyes shining with emotion. They lean in, and the camera pans up to the stars as they share a gentle kiss, the city lights twinkling in the background.\r\n\r\nFADE OUT.",
+    "scenes": [
+      {
+        "scene_number": 1,
+        "description": "The bustling office of a tech startup is filled with the hum of computers and chatter, with Amelia typing furiously on her laptop and Liam presenting an idea to a group of colleagues, occasionally glancing at Amelia. The camera pans across the room, showing the vibrant atmosphere. Liam walks over to Amelia's desk, holding two coffee cups, and they share a shy smile.",
+        "camera_angle": "Medium shot",
+        "lens": "50mm",
+        "lighting": "Natural daylight",
+        "image_url": "https://picsum.photos/1920/1080?random=741",
+        "generation_metadata": {
+          "model": "placeholder",
+          "prompt": "The bustling office of a tech startup is filled with the hum of computers and chatter, with Amelia typing furiously on her laptop and Liam presenting an idea to a group of colleagues, occasionally glancing at Amelia. The camera pans across the room, showing the vibrant atmosphere. Liam walks over to Amelia's desk, holding two coffee cups, and they share a shy smile.",
+          "generated_at": "2025-07-19T22:14:49.027745",
+          "note": "Placeholder image - API not available"
+        }
+      },
+      {
+        "scene_number": 2,
+        "description": "Amelia and Liam walk through a vibrant city park, the sunset casting a golden glow, and they stop by a fountain, where Liam playfully splashes water at Amelia, leading to a playful chase. The camera follows them, capturing their laughter and joyful movements. They collapse onto a bench, catching their breath, and their eyes meet, charged with unspoken feelings.",
+        "camera_angle": "Wide shot",
+        "lens": "24mm wide-angle",
+        "lighting": "Golden hour"
+      },
+      {
+        "scene_number": 3,
+        "description": "The office is quiet, with only a few lights on, and Amelia and Liam are working late on a project, their desks pushed together, surrounded by papers and laptops. The camera zooms in on their hands as Liam reaches for Amelia's, and they lace their fingers together. The camera pulls back to show the empty office, their silhouettes illuminated by the desk lamp, creating a cozy atmosphere.",
+        "camera_angle": "Close-up",
+        "lens": "85mm portrait",
+        "lighting": "Low-key dramatic"
+      },
+      {
+        "scene_number": 4,
+        "description": "Amelia and Liam stand on the office building's rooftop, the city skyline sparkling below, and they're dressed up, as if attending a company event that just ended. The camera pans out to show the breathtaking view, and Amelia turns to Liam, her eyes shining with emotion. They lean in, and the camera pans up to the stars as they share a gentle kiss, the city lights twinkling in the background.",
+        "camera_angle": "Wide shot",
+        "lens": "200mm telephoto",
+        "lighting": "High-key bright"
+      }
+    ],
+    "created_at": "2025-07-19T22:14:40.000333",
+    "updated_at": "2025-07-19T22:14:49.027745"
+  },
+  {
+    "id": "story_2_20250719_221719",
+    "title": "Intern diaries",
+    "theme": "love",
+    "genre": "Drama",
+    "content": "Title: Intern Diaries\r\nTheme: Love Story\r\n\r\nINT. OFFICE - DAY\r\nThe bustling office of a tech startup is filled with the hum of computers and chatter. AMELIA, 23, a shy but brilliant intern, sits at her desk, typing furiously on her laptop. Her desk is neatly organized, with a small potted plant adding a touch of warmth. Across the room, LIAM, 25, a charming and confident intern, is presenting an idea to a group of colleagues. His eyes occasionally flicker toward Amelia, who doesn't notice.\r\n\r\nAMELIA (V.O.)\r\n(softly)\r\nFirst days are always nerve-wracking, but there's something about this place... or maybe someone.\r\n\r\nLiam finishes his presentation, earning a round of applause. He walks over to Amelia's desk, holding two coffee cups.\r\n\r\nLIAM\r\n(smiling)\r\nHey, Amelia, right? Thought you might need a coffee to survive the morning.\r\n\r\nAMELIA\r\n(blushing)\r\nOh, thanks, Liam. That's... really nice.\r\n\r\nThey share a shy smile, and the camera lingers on their hands brushing as she takes the coffee.\r\n\r\nEXT. CITY PARK - EVENING\r\nAmelia and Liam walk through a vibrant city park, the sunset casting a golden glow. They're both in casual clothes, carrying laptops in their bags, clearly coming from a long day at work. They stop by a fountain, where Liam playfully splashes water at Amelia.\r\n\r\nAMELIA\r\n(laughing)\r\nYou're going to regret that!\r\n\r\nShe splashes back, and they end up in a playful chase around the fountain. Their laughter echoes as they collapse onto a bench, catching their breath.\r\n\r\nLIAM\r\n(earnest)\r\nYou know, I didn't expect to find someone like you in this internship. You make these long days... fun.\r\n\r\nAMELIA\r\n(looking down, then up)\r\nI didn't expect it either. But I'm glad.\r\n\r\nTheir eyes meet, and the moment is charged with unspoken feelings. A soft breeze rustles the leaves around them.\r\n\r\nINT. OFFICE - NIGHT\r\nThe office is quiet, with only a few lights on. Amelia and Liam are working late on a project, their desks pushed together. Papers and laptops are scattered around, but there's a comfortable silence between them. Amelia sketches a design on a notepad, and Liam watches her with admiration.\r\n\r\nLIAM\r\n(quietly)\r\nYou're really good at this, you know. I think we're going to nail this project because of you.\r\n\r\nAMELIA\r\n(smiling)\r\nWe’re a team, Liam. I couldn't do it without your crazy ideas.\r\n\r\nThey laugh softly, and Liam reaches for her hand. She hesitates, then laces her fingers with his. The camera pulls back to show the empty office, their silhouettes illuminated by the desk lamp.\r\n\r\nEXT. ROOFTOP - NIGHT\r\nAmelia and Liam stand on the office building's rooftop, the city skyline sparkling below. They're dressed up, as if attending a company event that just ended. Amelia leans against the railing, and Liam stands close, their shoulders touching.\r\n\r\nAMELIA\r\n(softly)\r\nThis internship... it's been more than I expected. Not just the work, but... us.\r\n\r\nLIAM\r\n(looking at her)\r\nAmelia, I don't want this to end when the internship does. I want to see where this goes.\r\n\r\nShe turns to him, her eyes shining with emotion. They lean in, and the camera pans up to the stars as they share a gentle kiss, the city lights twinkling in the background.\r\n\r\nFADE OUT.",
+    "scenes": [
+      {
+        "scene_number": 1,
+        "description": "The bustling office of a tech startup is filled with the hum of computers and chatter, with Amelia sitting at her desk, typing furiously on her laptop, while Liam presents an idea to a group of colleagues, occasionally glancing at Amelia. The camera captures the contrast between Amelia's shy demeanor and Liam's confident presentation style. As Liam finishes his presentation, he walks over to Amelia's desk, holding two coffee cups, and they share a shy smile.",
+        "camera_angle": "Medium shot",
+        "lens": "50mm",
+        "lighting": "Natural daylight",
+        "image_url": "https://replicate.delivery/xezq/B2qFGSmrLHZqLJJqcl6eh2uTlktgtEHiqL6zvb5ZqKiT8LhKA/tmp8gjxizxv.jpg",
+        "generation_metadata": {
+          "model": "runwayml/gen4-image",
+          "prompt": "The bustling office of a tech startup is filled with the hum of computers and chatter, with Amelia sitting at her desk, typing furiously on her laptop, while Liam presents an idea to a group of colleagues, occasionally glancing at Amelia. The camera captures the contrast between Amelia's shy demeanor and Liam's confident presentation style. As Liam finishes his presentation, he walks over to Amelia's desk, holding two coffee cups, and they share a shy smile., cinematic lighting, professional cinematography, film grain, depth of field, movie scene, medium shot, balanced composition, standard lens, natural perspective, natural daylight, soft shadows, high quality, detailed, professional, 8k resolution, sharp focus",
+          "original_prompt": "The bustling office of a tech startup is filled with the hum of computers and chatter, with Amelia sitting at her desk, typing furiously on her laptop, while Liam presents an idea to a group of colleagues, occasionally glancing at Amelia. The camera captures the contrast between Amelia's shy demeanor and Liam's confident presentation style. As Liam finishes his presentation, he walks over to Amelia's desk, holding two coffee cups, and they share a shy smile.",
+          "style": "cinematic",
+          "aspect_ratio": "16:9",
+          "resolution": "1080p",
+          "reference_tags": [
+            "outdoor"
+          ],
+          "reference_images": [],
+          "scene_metadata": {
+            "camera_angle": "Medium shot",
+            "lens": "50mm",
+            "lighting": "Natural daylight"
+          },
+          "generated_at": "2025-07-19T22:17:35.643691",
+          "input_data": {
+            "prompt": "The bustling office of a tech startup is filled with the hum of computers and chatter, with Amelia sitting at her desk, typing furiously on her laptop, while Liam presents an idea to a group of colleagues, occasionally glancing at Amelia. The camera captures the contrast between Amelia's shy demeanor and Liam's confident presentation style. As Liam finishes his presentation, he walks over to Amelia's desk, holding two coffee cups, and they share a shy smile., cinematic lighting, professional cinematography, film grain, depth of field, movie scene, medium shot, balanced composition, standard lens, natural perspective, natural daylight, soft shadows, high quality, detailed, professional, 8k resolution, sharp focus",
+            "resolution": "1080p",
+            "aspect_ratio": "16:9",
+            "reference_tags": [
+              "outdoor"
+            ]
+          }
+        }
+      },
+      {
+        "scene_number": 2,
+        "description": "Amelia and Liam walk through a vibrant city park, the sunset casting a golden glow, as they stop by a fountain and engage in a playful chase, their laughter echoing through the park. The camera captures the carefree and joyful atmosphere of the scene, with the warm sunlight and lush greenery of the park adding to the romantic ambiance. As they collapse onto a bench, catching their breath, the moment becomes charged with unspoken feelings.",
+        "camera_angle": "Wide shot",
+        "lens": "24mm wide-angle",
+        "lighting": "Golden hour",
+        "image_url": "https://replicate.delivery/xezq/sMerYGFRCw3ySCRqHdfIC0m9uqdOHz3B6lBuRTDDoxQOdbCVA/tmp003wbla_.jpg",
+        "generation_metadata": {
+          "model": "runwayml/gen4-image",
+          "prompt": "Amelia and Liam walk through a vibrant city park, the sunset casting a golden glow, as they stop by a fountain and engage in a playful chase, their laughter echoing through the park. The camera captures the carefree and joyful atmosphere of the scene, with the warm sunlight and lush greenery of the park adding to the romantic ambiance. As they collapse onto a bench, catching their breath, the moment becomes charged with unspoken feelings., cinematic lighting, professional cinematography, film grain, depth of field, movie scene, wide shot, expansive view, wide angle lens, expansive perspective, golden hour lighting, warm tones, magical hour, high quality, detailed, professional, 8k resolution, sharp focus",
+          "original_prompt": "Amelia and Liam walk through a vibrant city park, the sunset casting a golden glow, as they stop by a fountain and engage in a playful chase, their laughter echoing through the park. The camera captures the carefree and joyful atmosphere of the scene, with the warm sunlight and lush greenery of the park adding to the romantic ambiance. As they collapse onto a bench, catching their breath, the moment becomes charged with unspoken feelings.",
+          "style": "cinematic",
+          "aspect_ratio": "16:9",
+          "resolution": "1080p",
+          "reference_tags": [
+            "city",
+            "sunset",
+            "man",
+            "wide-shot",
+            "car"
+          ],
+          "reference_images": [
+            "https://replicate.delivery/xezq/B2qFGSmrLHZqLJJqcl6eh2uTlktgtEHiqL6zvb5ZqKiT8LhKA/tmp8gjxizxv.jpg"
+          ],
+          "scene_metadata": {
+            "camera_angle": "Wide shot",
+            "lens": "24mm wide-angle",
+            "lighting": "Golden hour"
+          },
+          "generated_at": "2025-07-20T02:21:26.985751",
+          "input_data": {
+            "prompt": "Amelia and Liam walk through a vibrant city park, the sunset casting a golden glow, as they stop by a fountain and engage in a playful chase, their laughter echoing through the park. The camera captures the carefree and joyful atmosphere of the scene, with the warm sunlight and lush greenery of the park adding to the romantic ambiance. As they collapse onto a bench, catching their breath, the moment becomes charged with unspoken feelings., cinematic lighting, professional cinematography, film grain, depth of field, movie scene, wide shot, expansive view, wide angle lens, expansive perspective, golden hour lighting, warm tones, magical hour, high quality, detailed, professional, 8k resolution, sharp focus",
+            "resolution": "1080p",
+            "aspect_ratio": "16:9",
+            "reference_tags": [
+              "city",
+              "sunset",
+              "man",
+              "wide-shot",
+              "car"
+            ],
+            "reference_images": [
+              "https://replicate.delivery/xezq/B2qFGSmrLHZqLJJqcl6eh2uTlktgtEHiqL6zvb5ZqKiT8LhKA/tmp8gjxizxv.jpg"
+            ]
+          }
+        }
+      },
+      {
+        "scene_number": 3,
+        "description": "The office is quiet, with only a few lights on, as Amelia and Liam work late on a project, their desks pushed together, surrounded by papers and laptops. The camera captures the comfortable silence between them, as they share a soft laugh and Liam reaches for Amelia's hand, their fingers intertwining. The scene is intimate and warm, with the soft glow of the desk lamp illuminating their faces.",
+        "camera_angle": "Close-up",
+        "lens": "85mm portrait",
+        "lighting": "Low-key dramatic",
+        "image_url": "https://picsum.photos/1920/1080?random=815",
+        "generation_metadata": {
+          "model": "placeholder",
+          "prompt": "The office is quiet, with only a few lights on, as Amelia and Liam work late on a project, their desks pushed together, surrounded by papers and laptops. The camera captures the comfortable silence between them, as they share a soft laugh and Liam reaches for Amelia's hand, their fingers intertwining. The scene is intimate and warm, with the soft glow of the desk lamp illuminating their faces.",
+          "generated_at": "2025-07-20T04:29:28.289344",
+          "note": "Placeholder image - API not available"
+        }
+      },
+      {
+        "scene_number": 4,
+        "description": "Amelia and Liam stand on the office building's rooftop, the city skyline sparkling below, as they share a gentle kiss, the camera panning up to the stars. The scene is romantic and dreamy, with the twinkling city lights and the night sky adding to the magical atmosphere. The camera captures the emotional moment, as Amelia and Liam's relationship reaches a new level.",
+        "camera_angle": "Wide shot",
+        "lens": "200mm telephoto",
+        "lighting": "High-key bright",
+        "image_url": "https://replicate.delivery/xezq/Rf4J4KCzfUrfspEX1cefUjeeDut2qBMf1IzFoiyisUIC3KYCVA/tmpi_w5p9u1.jpg",
+        "generation_metadata": {
+          "model": "runwayml/gen4-image",
+          "prompt": "Amelia and Liam stand on the office building's rooftop, the city skyline sparkling below, as they share a gentle kiss, the camera panning up to the stars. The scene is romantic and dreamy, with the twinkling city lights and the night sky adding to the magical atmosphere. The camera captures the emotional moment, as Amelia and Liam's relationship reaches a new level., cinematic lighting, professional cinematography, film grain, depth of field, movie scene, wide shot, expansive view, telephoto lens, very shallow depth of field, high-key lighting, bright and airy, soft lighting, high quality, detailed, professional, 8k resolution, sharp focus",
+          "original_prompt": "Amelia and Liam stand on the office building's rooftop, the city skyline sparkling below, as they share a gentle kiss, the camera panning up to the stars. The scene is romantic and dreamy, with the twinkling city lights and the night sky adding to the magical atmosphere. The camera captures the emotional moment, as Amelia and Liam's relationship reaches a new level.",
+          "style": "cinematic",
+          "aspect_ratio": "16:9",
+          "resolution": "1080p",
+          "reference_tags": [
+            "man",
+            "wide-shot",
+            "building",
+            "sky",
+            "night"
+          ],
+          "reference_images": [
+            "https://replicate.delivery/xezq/2pBZ9p0j3eSjKaHYzFrYNMvHsBVPbVh2EyDWvwCOSOQx8LhKA/tmpwvgobn40.jpg"
+          ],
+          "scene_metadata": {
+            "camera_angle": "Wide shot",
+            "lens": "200mm telephoto",
+            "lighting": "High-key bright"
+          },
+          "generated_at": "2025-07-19T22:37:03.329320",
+          "input_data": {
+            "prompt": "Amelia and Liam stand on the office building's rooftop, the city skyline sparkling below, as they share a gentle kiss, the camera panning up to the stars. The scene is romantic and dreamy, with the twinkling city lights and the night sky adding to the magical atmosphere. The camera captures the emotional moment, as Amelia and Liam's relationship reaches a new level., cinematic lighting, professional cinematography, film grain, depth of field, movie scene, wide shot, expansive view, telephoto lens, very shallow depth of field, high-key lighting, bright and airy, soft lighting, high quality, detailed, professional, 8k resolution, sharp focus",
+            "resolution": "1080p",
+            "aspect_ratio": "16:9",
+            "reference_tags": [
+              "man",
+              "wide-shot",
+              "building",
+              "sky",
+              "night"
+            ],
+            "reference_images": [
+              "https://replicate.delivery/xezq/2pBZ9p0j3eSjKaHYzFrYNMvHsBVPbVh2EyDWvwCOSOQx8LhKA/tmpwvgobn40.jpg"
+            ]
+          }
+        }
+      }
+    ],
+    "created_at": "2025-07-19T22:17:19.356691",
+    "updated_at": "2025-07-20T04:29:28.291350"
+  },
+  {
+    "id": "story_3_20250720_043910",
+    "title": "Drama123",
+    "theme": "Love",
+    "genre": "Drama",
+    "content": "Title: Intern Diaries\r\nTheme: Love Story\r\n\r\nINT. OFFICE - DAY\r\nThe bustling office of a tech startup is filled with the hum of computers and chatter. AMELIA, 23, a shy but brilliant intern, sits at her desk, typing furiously on her laptop. Her desk is neatly organized, with a small potted plant adding a touch of warmth. Across the room, LIAM, 25, a charming and confident intern, is presenting an idea to a group of colleagues. His eyes occasionally flicker toward Amelia, who doesn't notice.\r\n\r\nAMELIA (V.O.)\r\n(softly)\r\nFirst days are always nerve-wracking, but there's something about this place... or maybe someone.\r\n\r\nLiam finishes his presentation, earning a round of applause. He walks over to Amelia's desk, holding two coffee cups.\r\n\r\nLIAM\r\n(smiling)\r\nHey, Amelia, right? Thought you might need a coffee to survive the morning.\r\n\r\nAMELIA\r\n(blushing)\r\nOh, thanks, Liam. That's... really nice.\r\n\r\nThey share a shy smile, and the camera lingers on their hands brushing as she takes the coffee.\r\n\r\nEXT. CITY PARK - EVENING\r\nAmelia and Liam walk through a vibrant city park, the sunset casting a golden glow. They're both in casual clothes, carrying laptops in their bags, clearly coming from a long day at work. They stop by a fountain, where Liam playfully splashes water at Amelia.\r\n\r\nAMELIA\r\n(laughing)\r\nYou're going to regret that!\r\n\r\nShe splashes back, and they end up in a playful chase around the fountain. Their laughter echoes as they collapse onto a bench, catching their breath.\r\n\r\nLIAM\r\n(earnest)\r\nYou know, I didn't expect to find someone like you in this internship. You make these long days... fun.\r\n\r\nAMELIA\r\n(looking down, then up)\r\nI didn't expect it either. But I'm glad.\r\n\r\nTheir eyes meet, and the moment is charged with unspoken feelings. A soft breeze rustles the leaves around them.\r\n\r\nINT. OFFICE - NIGHT\r\nThe office is quiet, with only a few lights on. Amelia and Liam are working late on a project, their desks pushed together. Papers and laptops are scattered around, but there's a comfortable silence between them. Amelia sketches a design on a notepad, and Liam watches her with admiration.\r\n\r\nLIAM\r\n(quietly)\r\nYou're really good at this, you know. I think we're going to nail this project because of you.\r\n\r\nAMELIA\r\n(smiling)\r\nWe’re a team, Liam. I couldn't do it without your crazy ideas.\r\n\r\nThey laugh softly, and Liam reaches for her hand. She hesitates, then laces her fingers with his. The camera pulls back to show the empty office, their silhouettes illuminated by the desk lamp.\r\n\r\nEXT. ROOFTOP - NIGHT\r\nAmelia and Liam stand on the office building's rooftop, the city skyline sparkling below. They're dressed up, as if attending a company event that just ended. Amelia leans against the railing, and Liam stands close, their shoulders touching.\r\n\r\nAMELIA\r\n(softly)\r\nThis internship... it's been more than I expected. Not just the work, but... us.\r\n\r\nLIAM\r\n(looking at her)\r\nAmelia, I don't want this to end when the internship does. I want to see where this goes.\r\n\r\nShe turns to him, her eyes shining with emotion. They lean in, and the camera pans up to the stars as they share a gentle kiss, the city lights twinkling in the background.\r\n\r\nFADE OUT.",
+    "scenes": [
+      {
+        "scene_number": 1,
+        "description": "The bustling office of a tech startup is filled with the hum of computers and chatter, with Amelia sitting at her desk typing furiously on her laptop, while Liam presents an idea to a group of colleagues, occasionally glancing at Amelia. The camera lingers on their initial interaction as Liam brings Amelia a coffee, and they share a shy smile. The scene sets the tone for their budding relationship amidst the office environment.",
+        "camera_angle": "Medium shot",
+        "lens": "50mm",
+        "lighting": "Natural daylight",
+        "image_url": "https://dnznrvs05pmza.cloudfront.net/104e9ef8-fafd-43d9-ae9e-a20f033b2107.png?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiOWZjM2E2NGU4NzRlNTM3ZiIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc1MzE0MjQwMH0.mU8D4ycZbyooMY0fbhs9MfmAi3zKrWV_quDLswJiYDM",
+        "generation_metadata": {
+          "model": "gen4_image",
+          "prompt": "The bustling office of a tech startup is filled with the hum of computers and chatter, with Amelia sitting at her desk typing furiously on her laptop, while Liam presents an idea to a group of colleagues, occasionally glancing at Amelia. The camera lingers on their initial interaction as Liam brings Amelia a coffee, and they share a shy smile. The scene sets the tone for their budding relationship amidst the office environment.",
+          "style": "cinematic",
+          "aspect_ratio": "16:9",
+          "resolution": "1920:1080",
+          "reference_images": [
+            {
+              "uri": "https://img.freepik.com/premium-photo/fluid-organic-white-color-abstract-background-unique-designs_851755-381525.jpg",
+              "tag": "reference_1"
+            }
+          ],
+          "generation_id": "a9200f9e-fcef-4bf1-9e87-733a709ebe1a",
+          "generated_at": "2025-07-20T07:25:20.314506",
+          "api_response": {
+            "id": "a9200f9e-fcef-4bf1-9e87-733a709ebe1a"
+          }
+        }
+      },
+      {
+        "scene_number": 2,
+        "description": "Amelia and Liam walk through a vibrant city park in the evening, with the sunset casting a golden glow, as they engage in a playful chase around a fountain, their laughter echoing through the park. The scene captures the carefree and joyful moments they share, showcasing their growing connection.",
+        "camera_angle": "Wide shot",
+        "lens": "24mm wide-angle",
+        "lighting": "Golden hour",
+        "image_url": "https://dnznrvs05pmza.cloudfront.net/ada47732-41ce-4af5-8992-43162562fad5.png?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiZGVmZDllNjhlOTJjYmI3YyIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc1MzE0MjQwMH0.KM74iZwf6cBEXVi3kbOKAXYBWtcqNwpehsUt5z_Ynws",
+        "generation_metadata": {
+          "model": "gen4_image",
+          "prompt": "Amelia and Liam walk through a vibrant city park in the evening, with the sunset casting a golden glow, as they engage in a playful chase around a fountain, their laughter echoing through the park. The scene captures the carefree and joyful moments they share, showcasing their growing connection.",
+          "style": "cinematic",
+          "aspect_ratio": "16:9",
+          "resolution": "1920:1080",
+          "reference_images": [
+            {
+              "uri": "https://dnznrvs05pmza.cloudfront.net/104e9ef8-fafd-43d9-ae9e-a20f033b2107.png?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiOWZjM2E2NGU4NzRlNTM3ZiIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc1MzE0MjQwMH0.mU8D4ycZbyooMY0fbhs9MfmAi3zKrWV_quDLswJiYDM",
+              "tag": "reference_1"
+            }
+          ],
+          "task_id": "6c9ee9db-cd04-45ca-89b2-355a307ae0d3",
+          "generated_at": "2025-07-20T07:55:29.399376",
+          "previous_scene": "https://dnznrvs05pmza.cloudfront.net/104e9ef8-fafd-43d9-ae9e-a20f033b2107.png?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiOWZjM2E2NGU4NzRlNTM3ZiIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc1MzE0MjQwMH0.mU8D4ycZbyooMY0fbhs9MfmAi3zKrWV_quDLswJiYDM"
+        }
+      },
+      {
+        "scene_number": 3,
+        "description": "The office is quiet at night, with only a few lights on, as Amelia and Liam work late on a project, their desks pushed together, papers and laptops scattered around. The scene highlights the comfortable silence between them, as they share a moment of tender connection when Liam reaches for Amelia's hand, and she laces her fingers with his.",
+        "camera_angle": "Over-the-shoulder",
+        "lens": "85mm portrait",
+        "lighting": "Low-key dramatic"
+      },
+      {
+        "scene_number": 4,
+        "description": "Amelia and Liam stand on the office building's rooftop at night, the city skyline sparkling below, as they share a gentle kiss, the camera panning up to the stars. The scene marks a romantic milestone in their relationship, with the city lights twinkling in the background, symbolizing the endless possibilities their love holds.",
+        "camera_angle": "Wide shot",
+        "lens": "200mm telephoto",
+        "lighting": "High-key bright"
+      }
+    ],
+    "created_at": "2025-07-20T04:39:10.372296",
+    "updated_at": "2025-07-20T07:55:29.401360"
+  }
+]
