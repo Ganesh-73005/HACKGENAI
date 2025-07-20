@@ -23,7 +23,7 @@ A comprehensive set of AI-powered tools for modern filmmakers, combining storybo
 - Lighting and costume suggestions
 - Interactive color palettes
 
-[➡️ Explore Storyboard Generator](https://github.com/Ganesh-73005/HACKGENAI/flim-assist-storygen)  
+[➡️ Explore Storyboard Generator](https://github.com/Ganesh-73005/HACKGENAI/tree/main/flim-assist-storygen)  
 [➡️ Explore Moodboard Recommender](https://github.com/Ganesh-73005/HACKGENAI/mood_board_ai)
 
 ## 🛠️ Unified Installation
