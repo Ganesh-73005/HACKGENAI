@@ -1,6 +1,4 @@
-Here's a comprehensive README.md that integrates both projects as features of a unified Film Production AI Suite:
 
-```markdown
 # Film Production AI Suite
 
 ![Banner Image](https://via.placeholder.com/1200x400?text=Film+Production+AI+Suite)
